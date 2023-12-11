@@ -1,0 +1,7 @@
+matplotlib
+numpy
+Pillow
+torch==2.1.1
+torchvision==0.16.1
+scikit-learn
+livelossplot==0.5.5
