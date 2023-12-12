@@ -1,5 +1,5 @@
 <div style="text-align:center">
-    <img src="https://github.com/TehmoorG/Generative-Hand-X-ray/blob/main/data/real_hands/000000.jpeg" alt="VAE X-ray Image">
+    <img src="https://github.com/TehmoorG/Generative-Hand-X-ray/blob/main/data/real_hands/000000.jpeg" alt="VAE X-ray Image" style="width: 800px; height: auto;">
 </div>
 
 
