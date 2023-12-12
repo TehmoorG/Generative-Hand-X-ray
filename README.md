@@ -1,6 +1,6 @@
-<div style="text-align:center">
-    <img src="https://github.com/TehmoorG/Generative-Hand-X-ray/blob/main/data/real_hands/000000.jpeg" alt="VAE X-ray Image" style="width: 300px; height: auto;">
-</div>
+<p align="center">
+  <img src="https://github.com/TehmoorG/Generative-Hand-X-ray/blob/main/data/real_hands/000000.jpeg" alt="VAE X-ray Image" width="300"/>
+</p>
 
 
 # X-ray Hand Image Generation Using VAE
