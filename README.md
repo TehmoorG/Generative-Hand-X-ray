@@ -25,7 +25,7 @@ The VAE model in this project is trained on a dataset of hand X-ray images. It f
 - `data/VAE_hands/`: Folder containing generated images.
 
 ## Data Availability
-Due to GitHub's file size limitations, only a subset of 1000 images from the original 'Real Hands' dataset is available in this repository. The complete dataset can be accessed [here](<https://drive.google.com/drive/folders/1mGS4KTD_bHsfAxhw7ZuuEtkAjFTTqRoi?usp=drive_link>).
+Due to GitHub's file size limitations, only a subset of 1000 images from the original 'Real Hands' dataset is available in this repository. The complete dataset can be accessed [here](<https://drive.google.com/drive/folders/1uDMejVW4qjuw5iBpRqnZKwdyRCj_iYZO?usp=drive_link>).
 
 ## Usage
 To run the project:
