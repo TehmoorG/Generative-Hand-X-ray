@@ -30,8 +30,10 @@ Due to GitHub's file size limitations, only a subset of 1000 images from the ori
 ## Usage
 To run the project:
 1. Clone the repository.
-2. Ensure all dependencies listed in `requirements.txt` are installed.
+2. Ensure all dependencies listed in `requirements.txt` are installed:<br>
+    ```pip install -r requirements.txt```
 3. Run the main Jupyter notebook to train the model or generate new X-ray hand images.
+
 
 ## Contributions and Feedback
 Contributions to this project are welcome! If you have suggestions or feedback, please open an issue or submit a pull request.
